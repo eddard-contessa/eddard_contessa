@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @econtess
+- 👋 Hi, I’m @eddard_contessa
 - 👀 I’m interested in behavioral biology, pictorial art and motorcycles
 - 🌱 I’m currently learning Python, databases and a lot for ML engineering
 - 📫 How to reach me - email elizaveta.yegorova@yandex.ru
